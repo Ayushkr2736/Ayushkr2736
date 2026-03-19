@@ -156,56 +156,53 @@ const ayush = {
 
 <div align="center">
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔬 AI SaaS Platform  
+**Production-Ready SaaS System**
+
+- 🔐 **Authentication System:** Secure SSR-based auth with Supabase  
+- 💳 **Credit Engine:** Atomic credit deduction per AI request  
+- 🤖 **AI Integration:** Gemini-powered intelligent responses  
+- 📊 **Usage Tracking:** Per-user API consumption monitoring  
+- 🏗️ **Architecture:** Scalable SaaS with Prisma ORM  
+- 🎯 **Innovation:** Monetization-ready AI infrastructure  
+- 🚀 **Impact:** Rapid deployment of AI products with billing  
+
+**Tech:** Next.js, Supabase, Prisma, PostgreSQL, Gemini AI  
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✈️ TravelAI — Smart Group Travel Planner  
+**AI-Powered Travel Platform**
+
+- 🤖 **AI-Powered:** Intelligent itinerary generation  
+- 🧠 **Conflict Resolution:** Balances budgets & preferences  
+- 💰 **Optimization:** Cost estimation & suggestions  
+- 👥 **Collaboration:** Real-time group voting & discussion  
+- 🌍 **Scale:** Multi-user trip coordination  
+
+**Tech:** MERN Stack, Socket.io, JWT, Gemini/OpenAI  
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
 
-### 🔬AI SaaS Platform
-Production-Ready SaaS System
 
- Authentication System: Secure SSR-based auth with Supabase
 
-💳 Credit Engine: Atomic credit deduction per AI request
-
-🤖 AI Integration: Gemini-powered intelligent responses
-
-📊 Usage Tracking: Per-user API consumption monitoring
-
-🏗️ Architecture: Scalable SaaS with modular backend & Prisma ORM
-
-🎯 Innovation: Production-grade monetization-ready AI infrastructure
-
-🚀 Impact: Enables rapid deployment of AI products with built-in billing logic
-
-Tech: Next.js, Supabase, Prisma, PostgreSQL, Gemini AI
-**Tech:** Multi-Agent AI, LoRA, Adversarial ML
-
-</td>
-<td width="50%">
-
-### 🎨 TravelAI — Smart Group Travel Planner
-AI-Powered Travel Platform
-
-🤖 AI-Powered: Intelligent itinerary generation based on group preferences
-
-🧠 Conflict Resolution: Smart balancing of budgets, interests, and schedules
-
-💰 Optimization: Cost estimation and budget-aware recommendations
-
-👥 Collaboration: Real-time group planning with voting & discussion
-
-🌍 Scale: Handles multi-user trip coordination efficiently
-
-Tech: MERN Stack, Socket.io, JWT, Gemini/OpenAI
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 
 
