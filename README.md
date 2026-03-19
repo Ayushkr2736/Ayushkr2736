@@ -325,30 +325,16 @@ jobs:
 
 ### 🎓 Education
 
-**B.Tech in Data Science & AI**  
-IIIT Naya Raipur (2024 - 2028)
+**B.Tech in computer science**  
+IIIT Bhopal (2023 - 2027)
 
 **Class 12th: 93%** | **Class 10th: 89%**  
-Delhi Public School
+Maa bharti sr. sec. school
 
 </td>
 <td width="50%">
 
-### 📜 Certifications
 
-✅ LLM Engineering (Udemy)  
-✅ Production ML Systems (Google Cloud)  
-✅ Deep Learning (Udemy)  
-✅ Machine Learning (Udemy)  
-✅ RAG Architecture (DeepLearning.AI)  
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 💭 **Dev Wisdom of the Day**
 
