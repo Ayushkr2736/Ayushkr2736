@@ -267,47 +267,46 @@ jobs:
 <tr>
 <td>
 
-### 🔬 IIT Roorkee - Research Intern
-**Feb 2026 - Present** | LLM Bias Mitigation
+### 🔬NIRVEONX
+**Jan 2026 - Present** | Android developer
 
-- Developing agentic red-teaming framework
-- Adversary agent for autonomous bias discovery
-- Defender agent with real-time intervention
-- Multi-agent closed-loop architecture
+- Engineered 6+ mobile application modules including authentication, user dashboard.
+- Improving application responsiveness and stability.
+-Integrated 4+ backend APIs and optimized request handling to reduce loading time by 25%.
+- Collaborated with a 3+ member development team to test, debug.
 
 </td>
 <td>
 
-### 🤖 Atlan - AI Engineer
-**Jan 2026 - Present** | AI Infrastructure
+### 🤖COLLEGEPUR
+**Dec 2025 - Jan 2026** | Full stack developer
 
-- Scalable AI agent infrastructure with MCP
-- Multi-provider LLM integration
-- Production-grade prompt orchestration
-- Enterprise agentic workflows
+- Diagnosed and resolved 20+ backend issues across Node.js services.
+- Improving system reliability and reducing API errors by 30%.
+- Enhanced 8+ REST API endpoints and optimized backend logic.
+-support smoother communication between frontend and database services.
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 📱 Samsung R&D - R&D Intern
-**Oct 2025 - Present** | Design Automation
-
-- AI-powered Figma-to-React conversion
+### 📱 EASTRI
+**Oct 2025 - Dec 2025** |Full stack developer
+- Developed and maintained 10+ website components including landing pages,
 - 70-80% reduction in manual coding
 - Enterprise-scale design systems
-- WCAG accessibility compliance
+- 
 
 </td>
 <td>
 
-### ⚡ Sigmoyd - Software Engineer
-**Mar 2025 - Present** | AI Platform
+### ⚡FREELANCING
+ | MERN DEVELOPER
 
 - No-code AI agent platform
 - Fine-tuned DeepSeek with LoRA
-- Gmail, Slack, Notion, WhatsApp integration
+- 
 - One-click workflow deployment
 
 </td>
@@ -315,20 +314,6 @@ jobs:
 <tr>
 <td colspan="2">
 
-### 🎓 IIT Jodhpur - Research Intern
-**May 2025 - Jul 2025** | AI & Data Science
-
-- Research in AI and ML under School of AI & DS
-- Applied ML to experimental projects
-- Collaborated on cutting-edge AI tech
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 🎓 **Education & Certifications**
 
