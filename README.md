@@ -336,102 +336,23 @@ Maa bharti sr. sec. school
 
 
 
-## 💭 **Dev Wisdom of the Day**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
 
----
 
-<div align="center">
 
-## 💡 **Why Senior AI Engineer Role?**
 
-</div>
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Production-First
-
-**Not your typical fresher:**
-- Real production systems deployed
-- Security & monitoring built-in
-- Scalability from day 1
-- Proper error handling
-- Complete deployment pipelines
-- Docker & cloud-native
-
-</td>
-<td width="33%" align="center">
-
-### 🔬 Research → Production
-
-**Bridge the gap:**
-- IIT Roorkee & IIT Jodhpur research
-- Read & implement latest papers
-- Optimize for production
-- Ship with engineering best practices
-- 70-80% efficiency gains proven
-- Real impact on productivity
-
-</td>
-<td width="34%" align="center">
-
-### 👥 Proven Track Record
-
-**Real-world results:**
-- Multiple production systems live
-- 2x Hackathon Winner (1st place)
-- Samsung R&D measurable impact
-- Atlan AI infrastructure
-- Research publications pending
-- Technical leadership
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📈 **Contribution Insights**
-
-<details open>
-<summary><b>🔥 Contribution Heatmap</b></summary>
-<br>
-<img src="https://ghchart.rshah.org/00D9FF/manaspros" alt="GitHub Contribution Chart" width="100%"/>
-</details>
-
-</div>
-
----
-
-<div align="center">
 
 ## 📫 **Let's Build the Future Together**
 
-**Status:** 🟢 **Available for Senior AI Engineer / AI Architect roles**  
-**Location:** Raipur, India (Open to relocation worldwide)  
-**Email:** manas24102@iiitnr.edu.in  
-**Phone:** +91-7600566015
+**Status:** 🟢 **Available for Senior AI Engineer / SDE roles**  
+**Location:** Bhopal, India (Open to relocation worldwide)  
+**Email:** arr40381@gmail.com
+**Phone:** +918107842730
 
 <p>
-  <a href="https://linkedin.com/in/-manas-choudhary-">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manas24102@iiitnr.edu.in">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/manaspros">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/the_never_ending_guy">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
 </p>
 
 </div>
@@ -451,6 +372,6 @@ Maa bharti sr. sec. school
   <img src="https://img.shields.io/badge/Status-Hiring_Now-success?style=for-the-badge" />
 </p>
 
-**⭐️ From [Manas Choudhary](https://github.com/manaspros) | Last Updated: Feb 2026 🚀**
+
 
 </div>
