@@ -164,15 +164,24 @@ const ayush = {
 <tr>
 <td width="50%">
 
-### 🔬 LLM Bias Red-teaming (IIT Roorkee)
-**Current Research Project**
+### 🔬AI SaaS Platform
+Production-Ready SaaS System
 
-- **Adversary Agent:** Autonomous bias trigger generation
-- **Defender Agent:** Real-time bias mitigation
-- **Architecture:** Multi-agent closed-loop system
-- **Innovation:** Beyond curated benchmarks
-- **Impact:** Automated bias discovery & patching
+ Authentication System: Secure SSR-based auth with Supabase
 
+💳 Credit Engine: Atomic credit deduction per AI request
+
+🤖 AI Integration: Gemini-powered intelligent responses
+
+📊 Usage Tracking: Per-user API consumption monitoring
+
+🏗️ Architecture: Scalable SaaS with modular backend & Prisma ORM
+
+🎯 Innovation: Production-grade monetization-ready AI infrastructure
+
+🚀 Impact: Enables rapid deployment of AI products with built-in billing logic
+
+Tech: Next.js, Supabase, Prisma, PostgreSQL, Gemini AI
 **Tech:** Multi-Agent AI, LoRA, Adversarial ML
 
 </td>
@@ -227,60 +236,11 @@ const ayush = {
 
 <div align="center">
 
-## 📊 **GitHub Battle Stats**
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manaspros&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="95%" />
 
-</td>
-<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manaspros&theme=tokyonight" width="95%" />
 
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manaspros&theme=tokyonight" width="100%" />
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manaspros&theme=tokyonight" width="95%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manaspros&theme=tokyonight" width="95%" />
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manaspros&theme=tokyonight&utcOffset=5.5" width="95%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manaspros&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🐍 **Snake Eating My Contributions**
 
