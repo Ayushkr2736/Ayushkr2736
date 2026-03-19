@@ -187,54 +187,28 @@ Tech: Next.js, Supabase, Prisma, PostgreSQL, Gemini AI
 </td>
 <td width="50%">
 
-### 🎨 Figma-to-React AI (Samsung R&D)
-**Design Automation System**
+### 🎨 TravelAI — Smart Group Travel Planner
+AI-Powered Travel Platform
 
-- **AI-Powered:** MCP-based intelligent extraction
-- **Code Gen:** LLM-driven TypeScript generation
-- **Efficiency:** 70-80% time reduction
-- **Compliance:** WCAG accessibility validation
-- **Scale:** Enterprise design systems
+🤖 AI-Powered: Intelligent itinerary generation based on group preferences
 
-**Tech:** MCP, LLM Code Generation, Design Tokens
+🧠 Conflict Resolution: Smart balancing of budgets, interests, and schedules
+
+💰 Optimization: Cost estimation and budget-aware recommendations
+
+👥 Collaboration: Real-time group planning with voting & discussion
+
+🌍 Scale: Handles multi-user trip coordination efficiently
+
+Tech: MERN Stack, Socket.io, JWT, Gemini/OpenAI
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 No-Code AI Agent Platform (Sigmoyd)
-**Production Platform**
 
-- **Natural Language:** Create agents via prompts
-- **Integrations:** Gmail, Slack, Notion, WhatsApp
-- **Fine-tuned:** DeepSeek with LoRA
-- **Privacy:** Open-source LLM approach
-- **Deployment:** One-click workflow launch
 
-**Tech:** FastAPI, DeepSeek, LoRA, MCP
-
-</td>
-<td width="50%">
-
-### 💻 Strategic Code Companion
-**AI Code Analysis Platform**
-
-- **AST Parsing:** Semantic-aware analysis
-- **Smart Chunking:** Multi-dimensional scoring
-- **Business Flow:** Context-aware recommendations
-- **Architecture:** Dependency graph generation
-- **Quality:** Hotspot detection
-
-**Tech:** AST, Babel, Multi-Agent, VS Code API
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 
 
