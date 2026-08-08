@@ -44,7 +44,7 @@ const ayush = {
         ai_engineering: "AI SaaS applications and LLM integrations",
         problem_solving: "Strong focus on DSA and algorithmic thinking"
     },
-    education: "B.Tech CSE (3rd Year) @ IIIT Bhopal",
+    education: "B.Tech CSE (4rd Year) @ IIIT Bhopal",
     expertise: {
         software_engineering: [
             "💻 Full-Stack (React, Next.js, Node.js)",
@@ -266,6 +266,20 @@ jobs:
 <table align="center">
 <tr>
 <td>
+
+
+### 🔬RUMIK
+**may 2026 - Present** | full stack developer
+
+- Led the end-to-end frontend development of a new AI-powered application, building responsive, scalable, and production-ready interfaces using modern web technologies.
+  
+- Integrated 50+ AI agents into the platform, implementing agent workflows, API integrations, and seamless frontend-backend communication to enable intelligent automation.
+   
+- Designed and developed core backend services, REST APIs, business logic, and database integrations while conducting comprehensive testing to ensure reliability and performance.
+</td>
+<td>
+
+
 
 ### 🔬NIRVEONX
 **Jan 2026 - Present** | Android developer
